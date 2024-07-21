@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import InfoBox from "./InfoBox";
 import SearchBox from "./SearchBox";
 
