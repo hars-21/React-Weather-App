@@ -1,0 +1,34 @@
+body {
+	background: linear-gradient(180deg, #cacff9, #f4bccd);
+}
+
+#root {
+	max-width: 1280px;
+	margin: 0 auto;
+	padding: 1.25rem;
+	text-align: center;
+}
+
+.searchBox {
+	margin-bottom: 1.5rem;
+}
+
+.desc {
+	background: linear-gradient(45deg, #0e1c26, #2c6cbc);
+	color: white;
+}
+
+.value {
+	color: #fff;
+}
+
+p {
+	font-size: 1rem;
+	line-height: 1.4;
+}
+
+.weatherIcon {
+	position: relative;
+	right: -3rem;
+	top: 0.4rem;
+}
